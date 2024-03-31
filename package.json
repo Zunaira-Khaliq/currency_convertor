@@ -1,6 +1,6 @@
 {
-  "name": "currency_convertor",
-  "version": "1.0.0",
+  "name": "zydo7_currency_convertor",
+  "version": "1.0.2",
   "description": "This is a currency convertor machine.",
   "main": "index.js",
   "type": "module",
